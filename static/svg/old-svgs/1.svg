@@ -1,0 +1,7 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 810.67">
+    <path
+        d="M0,269.33A579.5,579.5,0,0,0,540,638.77v15.34c-239.45,0-445.8-141.57-540-345.57V269.33Zm1080,39.22a595.85,595.85,0,0,1-117.28,169l-10.39-11.16a577.57,577.57,0,0,0,127.67-197v39.19Z"
+        transform="translate(0 -269.33)" fill="#222" fill-rule="evenodd" />
+    <path d="M0,308.54c94.2,204,300.55,345.57,540,345.57s445.8-141.57,540-345.57V1080H0V308.54Z"
+        transform="translate(0 -269.33)" fill="#f4aa97" fill-rule="evenodd" />
+</svg>

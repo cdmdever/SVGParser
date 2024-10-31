@@ -1,0 +1,22 @@
+{
+  "name": "svg_createjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@types/createjs": "^0.0.29",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.3",
+    "ts-loader": "^9.4.4",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "svg-path-commander": "^2.0.8"
+  }
+}
